@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+header {
+    height: 40px;
+    background-color: #b2a0a0;
+    margin-bottom: 40px;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+}
+.val-1 {
+    height: auto;
+        font-size: 20px;  
+   text-align:center;
+}
+main {
+    display: flex;
+    justify-content: center;
+    text-align: 20px;
+
+}
+
+h2 {
+    text-align: center;
+    margin: 20px;
+}
+table {
+
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+td , th {
+    font-size: 40px;
+    border: 1px solid black;
+    padding: 10px 15px;
+}
+img{
+    width: 90px;
+}
